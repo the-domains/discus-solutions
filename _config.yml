@@ -1,0 +1,28 @@
+name: Discus Solutions
+favicon: null
+layout_spectrum: 0.5226020296104252
+typography_spectrum: 0.597066265065223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.15643940097652376
+  lightness: 0.6531669232062995
+  saturation: 0.38199757458642125
+  rhythmicContrast: 0.43281447631306946
+purpose: []
