@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Menu
+    url: 'http://www.discus.solutions/'
+    type: external
 favicon: null
 title: We Deliver..
 purpose: []
