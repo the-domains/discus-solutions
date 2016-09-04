@@ -1,4 +1,6 @@
 typography_spectrum: 0.597066265065223
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ADD7F6'
@@ -28,6 +30,7 @@ navigation:
   - name: Menu
     url: 'http://www.discus.solutions/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a88c83a1-0044-4ed1-bd23-d775d178659a.png
 title: We Deliver..
 purpose: []
