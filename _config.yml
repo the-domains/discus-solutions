@@ -21,6 +21,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Sonu
+  email: sonu.agarwal@discus.solutions
+  url: Discus.solutions
 name: Discus Solutions
 cta:
   domain: null
@@ -32,5 +36,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a88c83a1-0044-4ed1-bd23-d775d178659a.png
-title: We Deliver..
+title: >-
+  We impart our leading and elite resources to shape our ideas into ideal
+  solutions
 purpose: []
